@@ -41,11 +41,11 @@ from : https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
 
 ![comparison](images/img3.png)
 
-| model | size on Disk | Training Time (Approximated)|
+| **Model** | **Size on Disk** | **Training Time (Approximated)** |
 |--|--|--|
-|Linear Regression|4.8 KB|17 s|
-|Random Forest|10 MB|5 m|
-|XGboosting|116.1 MB|10 s|
+|Linear Regression|4.8 KB|17 second|
+|Random Forest|10 MB|5 minute|
+|XGboosting|116.1 MB|10 minute|
 
 
 ---
